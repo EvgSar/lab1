@@ -1,0 +1,7 @@
+C:\Users\Zhenya\Desktop\4 course\C sharp\Monkeys\Monkeys\Monkeys\obj\Debug\Monkeys.csproj.CoreCompileInputs.cache
+C:\Users\Zhenya\Desktop\4 course\C sharp\Monkeys\Monkeys\Monkeys\bin\Debug\Monkeys.exe.config
+C:\Users\Zhenya\Desktop\4 course\C sharp\Monkeys\Monkeys\Monkeys\bin\Debug\Monkeys.exe
+C:\Users\Zhenya\Desktop\4 course\C sharp\Monkeys\Monkeys\Monkeys\bin\Debug\Monkeys.pdb
+C:\Users\Zhenya\Desktop\4 course\C sharp\Monkeys\Monkeys\Monkeys\obj\Debug\Monkeys.exe
+C:\Users\Zhenya\Desktop\4 course\C sharp\Monkeys\Monkeys\Monkeys\obj\Debug\Monkeys.pdb
+C:\Users\Zhenya\Desktop\4 course\C sharp\Monkeys\Monkeys\Monkeys\obj\Debug\Monkeys.csprojResolveAssemblyReference.cache
